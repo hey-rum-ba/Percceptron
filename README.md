@@ -1,1 +1,1 @@
-# Perceptron
+# Soft Computing Lab
